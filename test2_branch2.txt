@@ -1,1 +1,2 @@
-This is test2 in branch 1
+this is test 2 in branch 2
+
